@@ -26,11 +26,11 @@
 
 .about-img {
   width: 45%;
-  height: 147%;
+  height: 153%;
   display: flex;
   align-self: center;
   overflow: hidden;
-  justify-content: flex-end;
+  
 }
 
 @media only screen and (max-width: 960px) {
