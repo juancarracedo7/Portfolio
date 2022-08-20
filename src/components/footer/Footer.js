@@ -13,7 +13,7 @@ const Footer = () => {
         <p>And let's get down to work</p>
       </div>
       <div className="footer-sns">
-        <div className="design-by">Design By Juan Cruz Carracedo</div>
+        <div className="design-by">Designed By Juan Cruz Carracedo</div>
         <div className="sns-links">
           <a href="https://www.linkedin.com/in/juancarracedodev" target="_blank" rel="noreferrer">
             <i className="fab fa-linkedin linkedin"></i>
