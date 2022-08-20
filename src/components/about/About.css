@@ -26,10 +26,11 @@
 
 .about-img {
   width: 45%;
-  height: 166%;
+  height: 165%;
   display: flex;
   align-self: center;
   overflow: hidden;
+  justify-content: flex-end;
   
 }
 
