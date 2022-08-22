@@ -1,5 +1,5 @@
 import React from "react";
-import "./Info.css";
+import "./skills.css";
 import javacsript from "../../assets/Javascript.png";
 import html from "../../assets/Html.png";
 import css from "../../assets/Css.png";
@@ -11,7 +11,7 @@ import sequelize from "../../assets/Sequelize.png";
 import git from "../../assets/Git.png";
 import trello from '../../assets/Trello.png'
 
-const Info = () => {
+const Skills = () => {
   return (
     <div className="info-container">
       <div className="info">
@@ -30,4 +30,4 @@ const Info = () => {
   );
 };
 
-export default Info;
+export default Skills;

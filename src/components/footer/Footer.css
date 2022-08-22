@@ -43,12 +43,12 @@
 .sns-links {
   display: grid;
   width: 100%;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr ;
 }
 
 .linkedin,
 .github,
-.mail {
+.mail{
   color: white;
   font-size: 35px;
   margin: 0 auto;
@@ -58,7 +58,7 @@
 
 .linkedin:hover,
 .github:hover,
-.mail:hover {
+.mail:hover{
   border-color: white;
   transition: all 0.3s ease-out;
 }
