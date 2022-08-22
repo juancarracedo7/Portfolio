@@ -47,7 +47,8 @@
 }
 
 .linkedin,
-.github {
+.github,
+.mail {
   color: white;
   font-size: 35px;
   margin: 0 auto;
@@ -56,7 +57,8 @@
 }
 
 .linkedin:hover,
-.github:hover {
+.github:hover,
+.mail:hover {
   border-color: white;
   transition: all 0.3s ease-out;
 }
