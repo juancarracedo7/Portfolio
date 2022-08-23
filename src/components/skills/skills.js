@@ -9,7 +9,7 @@ import node from "../../assets/Node.png";
 import postgres from "../../assets/Postgres.png";
 import sequelize from "../../assets/Sequelize.png";
 import git from "../../assets/Git.png";
-import trello from '../../assets/Trello.png'
+
 
 const Skills = () => {
   return (
@@ -24,7 +24,6 @@ const Skills = () => {
         <img src={postgres} alt="about" />
         <img src={sequelize} alt="about" />
         <img src={git} alt="about" />
-        <img src={trello} alt="about" />
       </div>
     </div>
   );
