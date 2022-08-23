@@ -24,6 +24,9 @@ const Footer = () => {
            <a href="mailto:juann.carracedo7@gmail.com" target="_blank" rel="noreferrer">
           <i class="fas fa-envelope fa-spin fa-1x mail"></i>
           </a>
+          <a href="https://flipbookpdf.net/web/site/8fe530e4cb59657f397eeef8ae24acf134362a86202208.pdf.html" target="_blank" rel="noreferrer">
+          <i class="fas fa-file-pdf fa-spin fa-1x curriculum"></i>
+          </a>
         </div>
       </div>
     </footer>
