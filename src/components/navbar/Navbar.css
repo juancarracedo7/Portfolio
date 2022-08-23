@@ -20,3 +20,28 @@
   color: white;
   cursor: pointer;
 }
+
+.Container-lang-Button {
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.lang-button {
+  color: rgb(250, 242, 242);
+  width: 45px;
+  background: black;
+  margin-left: 5px;
+  font-size: 21px;
+}
+
+.lang-button:hover{
+  color: rgb(9, 9, 9);
+  width: 47px;
+  background:white;
+  margin-left: 5px;
+  cursor: pointer;
+  
+}

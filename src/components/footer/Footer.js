@@ -1,19 +1,22 @@
 import React from "react";
 import "./Footer.css";
+import { useTranslation } from "react-i18next";
 
 
 const Footer = () => {
+
+  const [t, i18n] = useTranslation("global")
   return (
     <footer className="footer">
       <div className="footer-info">
         <h1>Juan Cruz Carracedo</h1>
-        <p>Based in Italia</p>
+        <p>{t("base.mybase")}</p>
       </div>
       <div className="footer-contact">
-        <h3>Contact me</h3>
+        <h3>{t("contact.mycontact")}</h3>
       </div>
       <div className="footer-sns">
-        <div className="design-by">Designed By Juan Cruz Carracedo</div>
+        <div className="design-by">{t("design.mydesign")}</div>
         <div className="sns-links">
           <a href="https://www.linkedin.com/in/juancarracedodev" target="_blank" rel="noreferrer">
             <i className="fab fa-linkedin fa-spin fa-1x linkedin"></i>

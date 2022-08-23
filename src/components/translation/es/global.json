@@ -1,0 +1,23 @@
+{
+    "about": {
+        "myself": "Hola!😀 Soy un Full Stack Web Developer, tengo 28 años y actualmente me encuentro viviendo en Italia. Soy un apasionado de la tecnologia, muy proactivo y curioso, todo el tiempo quiero descubrir y aprender cosas nuevas. Hace 1 año atras ingrese en el mundo de la programacion, y realmente me di cuenta que es lo que quiero para toda mi vida.Trabajar de lo que amo"
+    },
+    "projects" : {
+        "myprojects": "Mis Proyectos"
+    },
+    "certificates" : {
+        "mycertificate": "Certificados"
+    },
+    "developer" : {
+        "mydeveloper": "Desarrollador Web Full Stack"
+    },
+    "base" : {
+        "mybase": "Viviendo en Italia"
+    },
+    "contact" : {
+        "mycontact": "Contactame"
+    },
+    "design" : {
+        "mydesign": "Diseñado por Juan Cruz Carracedo"
+    }
+}

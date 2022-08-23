@@ -3,12 +3,16 @@ import Carousel from "@brainhubeu/react-carousel";
 import "@brainhubeu/react-carousel/lib/style.css";
 import Slides from "./Slides";
 import "./Slider.css";
+import { useTranslation } from "react-i18next";
 
 const Slider = () => {
+
+  const [t, i18n] = useTranslation("global")
+
   return (
     <div className="carousel-container">
       <div className="carousel-title">
-        <h2>My Projects</h2>
+        <h2>{t("projects.myprojects")}</h2>
       </div>
 
       <Carousel
