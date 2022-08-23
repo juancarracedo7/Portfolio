@@ -1,6 +1,6 @@
 import React from "react";
 import "./Cover.css";
-import Video from "../../media/Video.mp4";
+import Video from "../../media/videogroup.mp4";
 import { useTranslation } from "react-i18next";
 
 const Cover = () => {
