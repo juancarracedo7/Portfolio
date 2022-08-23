@@ -38,9 +38,13 @@
   align-self: center;
   overflow: hidden;
   justify-content: flex-end;
-  overflow: auto;
-  margin: 0 auto;
   object-fit: cover;
+  border-radius: 1000px;
+  
+}
+
+.about-img > img{
+  border-radius: 1000px;
   
 }
 
