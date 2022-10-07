@@ -31,6 +31,20 @@ const slidesInfo = [
     desc: "Pokemon App",
     deploy:"https://pokemon-api-pi-beryl.vercel.app/"
   },
+  {
+    src:
+      "https://ots.nbcwpshield.com/wp-content/uploads/2022/06/GettyImages-1304243741.jpg?quality=85&strip=all&resize=400%2C600",
+    alt: "Project 5",
+    desc: "Crypto Coin",
+    deploy:"https://github.com/juancarracedo7/CoinFinder-Crypto"
+  },
+  {
+    src:
+      "http://cdn.shopify.com/s/files/1/0243/0507/4256/products/TasksAndToDoList_GoodNotesSize_FlyingPatterns2_grande.jpg?v=1658112145",
+    alt: "Project 5",
+    desc: "TODO Typescript",
+    deploy:"https://github.com/juancarracedo7/React-Typescript-TODO-"
+  },
 ];
 
 const slides = slidesInfo.map((slide) => (
